@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/flinkstech/go-freshdesk/querybuilder"
+	"github.com/cweagans/go-freshdesk/querybuilder"
 )
 
 type UserManager interface {
